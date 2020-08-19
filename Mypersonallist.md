@@ -1,7 +1,8 @@
-# Cyber-Security-list
+# Cyber-Security-list Bellevue University 2020 cohort
 Cybersec class sharing link list
 
 Hey guys, I created this list for you guys to find some good valuable resources. I know some of you might know them already, and some of you might not. 
+
 INFOSEC EDUCATION:
 https://www.infosecinstitute.com/
 
@@ -14,6 +15,10 @@ https://www.cybrary.it/
 https://www.linuxfoundation.org/
 
 https://www.udemy.com/course/securityplus/
+
+https://www.professormesser.com/
+
+https://www.cisco.com/c/en/us/training-events/training-certifications/training.html
 
 
 INFOSEC tools and sites:
@@ -30,6 +35,7 @@ https://hpd.gasmi.net/
 https://www.hackthebox.eu/
 
 https://cve.mitre.org/cve/
+
 
 
 
@@ -60,17 +66,29 @@ https://www.peerlyst.com/
 
 Mybooklist:
 The Hackers Playbook 
+
 The Hackers Playbook 2
+
 The Hackers Playbook 3
+
 Hacking: The Art of Exploitation, 2nd Edition
+
 Penetration Testing: A Hands-On Introduction to Hacking
+
 Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker
+
 The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics
+
  Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information by Michael Bazzell
+ 
  Blue Team Field Manual (BTFM) (RTFM) by Alan White and Ben Clark
+ 
  Rtfm: Red Team Field Manual by Ben Clark
+ 
  Hash Crack: Password Cracking Manual (v3) by Joshua Picolet
+ 
  Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali 
+ 
  CCNA Cyber Ops
  
 
