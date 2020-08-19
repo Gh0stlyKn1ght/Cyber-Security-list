@@ -24,6 +24,8 @@ https://www.comptia.org/certifications/security
 
 https://csrc.nist.gov/
 
+https://inteltechniques.com/
+
 
 INFOSEC tools and sites:
 https://www.kali.org/
