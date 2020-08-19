@@ -20,6 +20,8 @@ https://www.professormesser.com/
 
 https://www.cisco.com/c/en/us/training-events/training-certifications/training.html
 
+https://www.comptia.org/certifications/security
+
 
 INFOSEC tools and sites:
 https://www.kali.org/
@@ -35,6 +37,12 @@ https://hpd.gasmi.net/
 https://www.hackthebox.eu/
 
 https://cve.mitre.org/cve/
+
+https://nmap.org/
+
+https://www.snort.org/
+
+https://portswigger.net/burp
 
 
 
@@ -90,6 +98,8 @@ The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics
  Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali 
  
  CCNA Cyber Ops
+ 
+ Network Intrusion Detection (3rd Edition) by Stephen Northcutt Judy Novak(1905-06-27)
  
 
 
