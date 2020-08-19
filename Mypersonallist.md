@@ -26,6 +26,8 @@ https://csrc.nist.gov/
 
 https://inteltechniques.com/
 
+https://www.inteltechniques.net/courses/open-source-intelligence
+
 
 INFOSEC tools and sites:
 https://www.kali.org/
