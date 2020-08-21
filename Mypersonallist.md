@@ -50,6 +50,8 @@ https://www.snort.org/
 
 https://portswigger.net/burp
 
+https://hakin9.org/tinfoleak-the-most-complete-open-source-tool-for-twitter-intelligence-analysis/
+
 
 
 
