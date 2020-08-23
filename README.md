@@ -55,6 +55,8 @@ https://portswigger.net/burp
 
 https://hakin9.org/tinfoleak-the-most-complete-open-source-tool-for-twitter-intelligence-analysis/
 
+https://www.w3schools.com/
+
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
 https://darknetdiaries.com/SPOTI
