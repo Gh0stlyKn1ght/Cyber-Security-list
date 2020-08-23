@@ -31,6 +31,8 @@ https://inteltechniques.com/
 
 https://www.inteltechniques.net/courses/open-source-intelligence
 
+/www.dataquest.io
+
 INFOSEC tools and sites: https://www.kali.org/
 
 https://owasp.org/
