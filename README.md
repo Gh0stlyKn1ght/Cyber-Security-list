@@ -57,6 +57,8 @@ https://hakin9.org/tinfoleak-the-most-complete-open-source-tool-for-twitter-inte
 
 https://www.w3schools.com/
 
+https://www.sans.org/reading-room/whitepapers/forensics/techniques-tools-recovering-analyzing-data-volatile-memory-33049
+
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
 https://darknetdiaries.com/SPOTI
