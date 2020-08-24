@@ -104,3 +104,10 @@ Linux Basics for Hackers: Getting Started with Networking, Scripting, and Securi
 CCNA Cyber Ops
 
 Network Intrusion Detection (3rd Edition) by Stephen Northcutt Judy Novak(1905-06-27)
+
+
+FREE AND DISCOUNTED STUDENT STUFF: 
+
+https://education.github.com/pack
+
+https://visualstudio.microsoft.com/students/
