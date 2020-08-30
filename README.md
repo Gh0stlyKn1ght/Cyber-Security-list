@@ -33,6 +33,8 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 
 /www.dataquest.io
 
+
+
 INFOSEC tools and sites: https://www.kali.org/
 
 https://owasp.org/
@@ -58,6 +60,8 @@ https://hakin9.org/tinfoleak-the-most-complete-open-source-tool-for-twitter-inte
 https://www.w3schools.com/
 
 https://www.sans.org/reading-room/whitepapers/forensics/techniques-tools-recovering-analyzing-data-volatile-memory-33049
+
+https://www.shodan.io/
 
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
