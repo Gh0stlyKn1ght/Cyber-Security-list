@@ -33,7 +33,7 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 
 /www.dataquest.io
 
-
+=====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
 
@@ -81,6 +81,12 @@ https://stackoverflow.com/tour
 
 https://repl.it
 
+http://rumkin.com/tools/cipher/
+
+
+
+==========================================
+
 SOCIAL: https://www.peerlyst.com/
 
 Mybooklist: The Hackers Playbook
@@ -111,7 +117,7 @@ CCNA Cyber Ops
 
 Network Intrusion Detection (3rd Edition) by Stephen Northcutt Judy Novak(1905-06-27)
 
-
+===================================================================================
 FREE AND DISCOUNTED STUDENT STUFF: 
 
 https://education.github.com/pack
