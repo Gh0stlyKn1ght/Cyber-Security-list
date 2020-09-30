@@ -33,6 +33,7 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 
 /www.dataquest.io
 
+https://malwareunicorn.org/#/
 =====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
@@ -83,6 +84,7 @@ https://repl.it
 
 http://rumkin.com/tools/cipher/
 
+http://www.pythonsecurity.org/
 
 
 ==========================================
