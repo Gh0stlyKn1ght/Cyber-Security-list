@@ -34,6 +34,8 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 /www.dataquest.io
 
 https://malwareunicorn.org/#/
+
+https://www.eccouncil.org/get-certified-with-ec-council/#
 =====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
