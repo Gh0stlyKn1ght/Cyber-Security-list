@@ -36,7 +36,9 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 https://malwareunicorn.org/#/
 
 https://www.eccouncil.org/get-certified-with-ec-council/#
-https://hackerone.com/users/sign_in
+https://www.zaproxy.org/zap-in-ten/
+
+https://www.hackerone.com/for-hackers/hacker-101
 =====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
