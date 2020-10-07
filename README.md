@@ -36,9 +36,7 @@ https://www.inteltechniques.net/courses/open-source-intelligence
 https://malwareunicorn.org/#/
 
 https://www.eccouncil.org/get-certified-with-ec-council/#
-https://www.zaproxy.org/zap-in-ten/
 
-https://www.hackerone.com/for-hackers/hacker-101
 =====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
@@ -68,6 +66,10 @@ https://www.w3schools.com/
 https://www.sans.org/reading-room/whitepapers/forensics/techniques-tools-recovering-analyzing-data-volatile-memory-33049
 
 https://www.shodan.io/
+
+https://www.zaproxy.org/zap-in-ten/
+
+https://www.hackerone.com/for-hackers/hacker-101
 
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
