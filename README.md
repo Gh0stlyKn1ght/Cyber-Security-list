@@ -93,6 +93,9 @@ http://rumkin.com/tools/cipher/
 
 http://www.pythonsecurity.org/
 
+https://www.guidancesoftware.com/encase-endpoint-security?cmpid=nav_r
+
+https://www.rapid7.com/fundamentals/network-traffic-analysis/
 
 ==========================================
 
