@@ -103,6 +103,8 @@ https://parrotlinux.org/download/
 
 Kalilinux.org
 
+https://www.telerik.com/download/fiddler/fiddler-everywhere-windows
+
 ==========================================
 
 SOCIAL: https://www.peerlyst.com/
