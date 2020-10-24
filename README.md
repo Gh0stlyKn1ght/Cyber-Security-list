@@ -101,7 +101,7 @@ https://www.rapid7.com/fundamentals/network-traffic-analysis/
 
 https://parrotlinux.org/download/
 
-Kalilinux.org
+https://www.hex-rays.com/products/ida/
 
 https://www.telerik.com/download/fiddler/fiddler-everywhere-windows
 
