@@ -75,6 +75,8 @@ https://www.hackerone.com/for-hackers/hacker-101
 
 https://wigle.net/
 
+https://securityonionsolutions.com/software
+
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
 https://darknetdiaries.com/SPOTI
