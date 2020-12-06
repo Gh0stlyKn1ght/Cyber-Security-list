@@ -109,6 +109,10 @@ https://www.hex-rays.com/products/ida/
 
 https://www.telerik.com/download/fiddler/fiddler-everywhere-windows
 
+Tails - Home
+
+http://www.gettens.online/
+
 ==========================================
 
 SOCIAL: https://www.peerlyst.com/
