@@ -77,6 +77,9 @@ https://wigle.net/
 
 https://securityonionsolutions.com/software
 
+https://fmsasg.com/socialnetworkanalysis/
+https://kylemcdonald.net/parler/map/?fbclid=IwAR2xBDgkvJn3KGrkzj8DbWE6jidZJEdzMTMndaCUNi5neLVBXE1Av_cb9xE
+
 ENTERTAINMENT/PODCAST: https://gimletmedia.com/shows/motherhacker
 
 https://darknetdiaries.com/SPOTI
