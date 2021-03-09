@@ -39,6 +39,13 @@ https://www.eccouncil.org/get-certified-with-ec-council/#
 
 https://tryhackme.com
 
+https://www.cyberseek.org/index.html#aboutit
+
+https://www.isaca.org/credentialing/cybersecurity-audit-certificate
+
+https://cybersecurityventures.com/cybersecurity-associations/
+v
+
 =====================================================================
 
 INFOSEC tools and sites: https://www.kali.org/
