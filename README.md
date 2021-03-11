@@ -44,6 +44,8 @@ https://www.cyberseek.org/index.html#aboutit
 https://www.isaca.org/credentialing/cybersecurity-audit-certificate
 
 https://cybersecurityventures.com/cybersecurity-associations/
+
+https://www.exploit-db.com/
 v
 
 =====================================================================
