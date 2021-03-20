@@ -163,3 +163,6 @@ FREE AND DISCOUNTED STUDENT STUFF:
 https://education.github.com/pack
 
 https://visualstudio.microsoft.com/students/
+
+
+GET YOUR HACKER NAME: https://www.gamehouse.com/blog/leet-speak-cheat-sheet/
